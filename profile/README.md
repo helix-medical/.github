@@ -1,4 +1,4 @@
-![Banner](../helix-banner.png)
+![](https://github.com/helix-medical/.github/blob/main/helix-banner.png)
 # Helix 
 
 A patient management system, self hosted.
