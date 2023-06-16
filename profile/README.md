@@ -57,9 +57,9 @@ Helix is also for you if you are a developer and you want to contribute to an op
 
 > You can find more information about how to install Helix in the [documentation](https://helix-medical.github.io/docs/getting-started/index.html).
 
-In a few words, you can install Helix on any Linux-based server or computer using the [docker-compose](https://github.com/helix-medical/releases/blob/main/docker-compose.yml) file available in the [releases](https://github.com/heilx-medical/releases) page.
+In a few words, you can install Helix on any Linux-based server or computer using the [docker-compose](https://github.com/helix-medical/releases/blob/main/docker-compose.yml) file available in the [releases](https://github.com/helix-medical/releases) page.
 
-We working on a brand new [installer/utility tool](https:/github.com/helix-medical/lx-tool) to make the installation process easier. Stay tuned!
+We working on a brand new [installer/utility tool](https://github.com/helix-medical/lx-tool) to make the installation process easier. Stay tuned!
 
 ## How to contribute
 
