@@ -4,19 +4,31 @@
     <img src="https://github.com/helix-medical/.github/blob/main/assets/helix-banner.png?raw=true" />
     <h1>The Helix Project</h1>
     <!-- Badges -->
-    <img src="https://img.shields.io/docker/v/xavier2p/helix-client?label=image%20version&style=for-the-badge&logo=docker" />
-    <img src="https://img.shields.io/docker/v/xavier2p/helix-server?label=server%20version&style=for-the-badge&logo=docker" />
-    <img src="https://img.shields.io/docker/v/xavier2p/helix-db?label=database%20version&style=for-the-badge&logo=docker" />
+    <a href="https://hub.docker.com/r/xavier2p/helix-client">
+        <img src="https://img.shields.io/docker/v/xavier2p/helix-client?label=image%20version&style=for-the-badge&logo=docker" />
+    </a>
+    <a href="https://hub.docker.com/r/xavier2p/helix-server">
+        <img src="https://img.shields.io/docker/v/xavier2p/helix-server?label=server%20version&style=for-the-badge&logo=docker" />
+    </a>
+    <a href="https://hub.docker.com/r/xavier2p/helix-db">
+        <img src="https://img.shields.io/docker/v/xavier2p/helix-db?label=database%20version&style=for-the-badge&logo=docker" />
+    </a>
     <div>
-    <img src="https://img.shields.io/github/license/helix-medical/.github?style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/github/contributors/helix-medical/.github?style=for-the-badge&logo=github" />
-    <a href="https://helix-medical.github.io"><img src="https://img.shields.io/website?down_color=brigthred&down_message=DOWN&logo=github&style=for-the-badge&up_color=brigthgreen&up_message=UP&url=https%3A%2F%2Fhelix-medical.github.io" /></a>
+        <a href="https://github.com/helix-medical/.github/blob/main/LICENSE">
+            <img src="https://img.shields.io/github/license/helix-medical/.github?style=for-the-badge&logo=github" />
+        </a>
+        <img src="https://img.shields.io/github/contributors/helix-medical/.github?style=for-the-badge&logo=github" />
+        <a href="https://helix-medical.github.io">
+            <img src="https://img.shields.io/website?down_color=brigthred&down_message=DOWN&logo=github&style=for-the-badge&up_color=brigthgreen&up_message=UP&url=https%3A%2F%2Fhelix-medical.github.io" />
+        </a>
     </div>
-    <img src="https://img.shields.io/github/v/release/helix-medical/releases?style=for-the-badge&label=latest&logo=github&color=green" />
+    <a href="https://github.com/helix-medical/releases/releases">
+        <img src="https://img.shields.io/github/v/release/helix-medical/releases?style=for-the-badge&label=latest&logo=github&color=green" />
+    </a>
 </div>
 
 <!-- Concept -->
-The Helix Project is a Patient Management System (PMS) specially built for Osteopaths purposes. You can find some popular features like:
+The Helix Project ([website](https://helix-medical.github.io)) is a Patient Management System (PMS) specially built for Osteopaths purposes. You can find some popular features like:
 
 + Patient management (medical history, appointments, billing, ...)
 + Appointment management (personal and professional calendar ...)
